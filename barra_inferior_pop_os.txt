@@ -1,0 +1,8 @@
+
+- atalho para abrir o terminal:
+
+windows+t
+
+- reabre a barra inferior caso desapareca:
+
+pkill cosmic-panel

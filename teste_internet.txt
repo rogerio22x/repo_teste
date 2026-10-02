@@ -1,0 +1,14 @@
+
+
+sudo ethtool enp3s0 | grep -i speed
+
+resultado previsto:
+╭─roger@pop-os ~
+╰─$ sudo ethtool enp3s0 | grep -i speed
+[sudo] senha para roger:
+        Speed: 1000Mb/s
+╭─roger@pop-os ~
+╰─$
+
+
+
